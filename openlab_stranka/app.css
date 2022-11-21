@@ -1,0 +1,168 @@
+body {
+    margin: 0;
+    margin-top: 8px;
+}
+
+.dc {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    border-bottom: 1px solid #d7eaff;
+    margin-left: 292px;
+    margin-right: 292px;
+    margin-top: -5px;
+    
+}
+
+.dc-p {
+    padding-right: 50px;
+    margin-top: 15px;
+    letter-spacing: 1px;
+}
+
+.btn-p {
+    padding-right: 5px;
+    font-size: 12px;
+    color: rgb(170, 170, 170);
+    font-weight: bold;
+    margin: 0;
+}
+
+.btn {
+    border: 1px solid rgb(219, 219, 219);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: rgb(240, 240, 240);
+    margin-bottom: 8px;
+    margin-top: 6px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.openlab-logo {
+    margin-left: 306px;
+    margin-top: -4px;
+}
+
+.navbar-logo {
+    display: flex;
+    margin-top: 31px;
+}
+
+.p1, .p2, .p3, .p4, .p5, .p6, .btn-join {
+    display: inline;
+    padding-right: 24px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.p1 {
+    padding-left: 77px;
+}
+
+.btn-join {
+    margin-left: 320px;
+    border: 1px solid #3597ff;
+    background: #3597ff;
+    color: #fff;
+    padding: 15px;
+    border-radius: 6px;
+    font-weight: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.welcome-section-blue {
+    background-color: #3597ff;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 22px;
+}
+
+.main-content-h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #fff;
+    line-height: 48px;
+}
+
+.main-content-p {
+    font-family: sans-serif;
+    color: #fff;
+    line-height: 24px;
+    margin-top: -16px;
+    font-size: 14.5px;
+    letter-spacing: 1px;
+}
+
+.main-content {
+    margin-left: 305px;
+    padding-top: 56px;
+}
+
+.openlab-img {
+    padding-left: 155.5px;
+    padding-top: 22px;
+}
+
+.why {
+    display: flex;
+    justify-content: center;
+    margin-top: 95px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.why1 {
+    font-weight: lighter;
+}
+
+.in-openlab {
+    font-family: sans-serif;
+    color: #566b8d;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 23px;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+
+.learn {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 1px;
+    margin-top: 63px;
+    margin-bottom: 100px;
+}
+
+.select-p, .support-p, .intership-p {
+    color: #566b8d;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.select, .support {
+    margin-right: 40px;
+}
+
+.select, .support, .intership {
+    line-height: 10px;
+}
+
+.select-img, .support-img, .intership-img {
+    padding-bottom: 6px;
+}
+
+.select-h3, .support-h3, .intership-h3 {
+    margin-bottom: -1px;
+}
