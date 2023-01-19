@@ -135,13 +135,11 @@ body {
 
 .o_letter {
     width: 482px;
-    margin-left: 1200px;
-    margin-top: -241px;
-    display: flex;
     position: absolute;
-    z-index: 0;
-    overflow: hidden;
+    inset: 47% 0 0 83.25%;
+    overflow-y: hidden;
 }
+
 
 .why {
     display: flex;
@@ -377,4 +375,122 @@ body {
 .vision-p1 {
     margin-top: -10px;
     padding-bottom: 10px;
+}
+
+.what-lab {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin-left: 70px;
+    margin-top: 220px;
+    padding-bottom: 45px;
+}
+
+.which-lab {
+    display: flex;
+}
+
+.contianer {
+    width: 70%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-left: 5rem;
+}
+
+.flex {
+    display: flex;
+    margin-bottom: 130px;
+}
+
+.lab-text {
+    width: 30%;
+}
+
+.shadow:hover {
+    box-shadow: 0px 0.95237px 23.8092px rgb(99 118 149 / 15%);
+    border-radius: 6px;
+}
+
+.shadow {
+    font-family: sans-serif;
+    width: 233px;
+    padding: 14px 20px 14px 20px;
+    margin-right: 10px;
+}
+
+.shadow h1 {
+    font-weight: lighter;
+    font-size: 20px;
+    line-height: 8px;
+}
+
+.shadow p {
+    color: #566b8d;
+    letter-spacing: 1px;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.sch h1 {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    text-align: center;
+    margin-bottom: 65px;
+}
+
+.sch-img {
+    display: inline;
+}
+
+.sch-img1 {
+    margin-left: 134px;
+}
+
+.sch-img2 {
+    margin-left: 116px;
+}
+
+.position {
+    display: flex;
+    margin-left: 134px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-weight: lighter;
+    color: #566b8d;
+    font-size: 15px;
+    margin-top: 4px;
+}
+
+.halova {
+    display: flex;
+}
+
+.kysucke {
+    display: flex;
+    margin-left: 460px;
+}
+
+.sch-link {
+    display: flex;
+    margin-left: 134px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+
+.sch-link1 {
+    margin-right: 380px;
+}
+
+.p_letter {
+    width: 436px;
+    position: absolute;
+    inset: 340% 0 0 85%;
+    overflow-y: hidden;
+}
+
+.kysucke img {
+    z-index: 1;
 }
